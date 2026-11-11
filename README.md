@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20Developer&fontSize=70&fontAlignY=35&animation=twinkling" alt="header" />
+</p>
 
-<!--
-**exinwn/exinwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://github.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%26+Backend;I+build+things+for+the+web" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A web developer who loves clean code, fast interfaces, and good coffee.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,figma,git,github,vercel" />
+</p>
+
+---
+
+### 🧰 What I work with
+
+I build full-stack applications with a focus on **performance**, **accessibility**, and **developer experience**.  
+I enjoy turning complex problems into simple, elegant solutions.
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, PostgreSQL, Prisma
+- **Tools:** Git, GitHub Actions, Vercel, Figma
+
+---
+
+### 📊 A random dev quote for you
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
