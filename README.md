@@ -8,7 +8,6 @@
   </a>
 </h1>
 
-<h3 align="center">A web developer who loves clean code, fast interfaces, and good coffee.</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,figma,git,github,vercel" />
