@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%26+Backend;I+build+things+for+the+web" alt="Typing SVG" />
+   
   </a>
 </h1>
 
