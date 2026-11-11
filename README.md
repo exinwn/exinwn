@@ -8,25 +8,20 @@
   </a>
 </h1>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,figma,git,github,vercel" />
-</p>
-
 ---
 
-### 🧰 What I work with
+### What I work with
 
-I build full-stack applications with a focus on **performance**, **accessibility**, and **developer experience**.  *
+I build full-stack applications with a focus on **performance**, **accessibility**, and **developer experience**.  
 I enjoy turning complex problems into simple, elegant solutions.
 
-- **Frontend:** CSS, JavaScript, HTML
+- **Frontend:** CSS, HTML
 - **Backend:** JavaScript
 - **Tools:** Git, Figma
 
 ---
 
-### 📊 A random dev quote for you
+### A random dev quote for you
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
