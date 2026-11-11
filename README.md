@@ -18,12 +18,12 @@
 
 ### 🧰 What I work with
 
-I build full-stack applications with a focus on **performance**, **accessibility**, and **developer experience**.  
+I build full-stack applications with a focus on **performance**, **accessibility**, and **developer experience**.  *
 I enjoy turning complex problems into simple, elegant solutions.
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL, Prisma
-- **Tools:** Git, GitHub Actions, Vercel, Figma
+- **Frontend:** CSS, JavaScript, HTML
+- **Backend:** JavaScript
+- **Tools:** Git, Figma
 
 ---
 
